@@ -21,4 +21,5 @@
 <br />
 <br />
 <!-- BLOG-POST-LIST:START -->
+- [Tailwind css dark mode switch with JavaScript](https://dev.to/smartmointy/tailwind-css-dark-mode-switch-with-javascript-2kl9)
 <!-- BLOG-POST-LIST:END -->
