@@ -1,4 +1,4 @@
-### Hi there, I'm SmartMointy 👋
+### Hi there, I'm Mointy 👋
 - 🔭 I’m currently working on a <b>Multicast: Stream anything, everywhere</b>!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others
