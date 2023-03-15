@@ -24,5 +24,7 @@
 ### My latest articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [CloudYourself Introduction: Setup Raspberry Pi](https://dev.to/sinandev/cloudyourself-introduction-setup-raspberry-pi-4bic)
+- [When centering text is more difficult than you think! ](https://dev.to/sinandev/when-centering-text-is-more-difficult-than-you-think-af6)
 - [Tailwind css dark mode switch with JavaScript](https://dev.to/smartmointy/tailwind-css-dark-mode-switch-with-javascript-2kl9)
 <!-- BLOG-POST-LIST:END -->
