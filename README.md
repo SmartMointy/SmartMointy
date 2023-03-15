@@ -1,6 +1,6 @@
-### Hi there, I'm Mointy 👋
-- 🔭 I’m currently working on a <b>Multicast: Stream anything, everywhere</b>!
-- 🌱 I’m currently learning everything 🤣
+### Hi there, I'm Sinan 👋
+- 🔭 I’m currently working on a React Native based corss platform application!
+- 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate with others
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
